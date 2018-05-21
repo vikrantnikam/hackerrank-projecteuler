@@ -12,7 +12,8 @@ public class MultiplesOf3And5 {
 			System.out.println(getMultipleOfN(n, 5) + getMultipleOfN(n, 3) - getMultipleOfN(n, (5 * 3)));
 
 		}
-		in.close();
+		in.close(); 
+		
 	}
 
 	private static long getMultipleOfN(int n, long val) {
