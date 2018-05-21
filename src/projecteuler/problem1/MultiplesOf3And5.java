@@ -1,4 +1,4 @@
-package problem1;
+package projecteuler.problem1;
 
 import java.util.Scanner;
 
